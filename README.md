@@ -2,10 +2,11 @@
 
 1) Firstly install the latest version of node with default setting.
 2) Then use the below commands:
-   npx create-react-app my-new-app
+  a) npx create-react-app my-new-app
 
-   cd my-new-app
-   npm start
+  b) cd my-new-app
+   
+  c) npm start
   
  3) When npm will get started then it will redirect on browser along with localHost Url.
  
