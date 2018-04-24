@@ -1,7 +1,8 @@
--> Please follow the below points to install the react to your machine
+-> Please follow the below points to install the react on your machine
 
 1) Firstly install the latest version of node with default setting.
 2) Then use the below commands:
+
   a) npx create-react-app my-new-app
 
   b) cd my-new-app
