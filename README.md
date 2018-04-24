@@ -1,3 +1,22 @@
+-> Please follow the below points to install the react to your machine
+
+1) Firstly install the latest version of node with default setting.
+2) Then use the below commands:
+   npx create-react-app <FolderName>
+
+   cd <FolderName>
+   npm start
+  
+ 3) When npm will get started then it will redirect on browser along with localHost Url.
+ 
+ =====================
+OR..
+
+-> Install the node
+-> download all the folders from react installation repositry
+-> And write the command npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
